@@ -1,6 +1,7 @@
 ---
 layout: default
 title: William Daugherty's Resume and LLM Project Portfolio
+---
 
 # William Daugherty
 Dallas, TX | (817) 614-8981  
