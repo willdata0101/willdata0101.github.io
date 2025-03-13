@@ -5,7 +5,18 @@ permalink: /projects/
 
 # LLM Project portfolio
 
-## Project 1: Syntax Shift
+## Project 1: Historical Archive Assistant Chatbot
+### Overview
+A RAG-based chatbot that can answer any question in any language about a given database of historical records.
+
+### Technologies Used
+- Python
+- AWS Sagemaker for code development
+- AWS Bedrock for access to foundational models (LLMs) such as GPT, Claude, and Llama
+- LangChain for RAG implementation
+- Streamlit for deployment
+
+## Project 2: Syntax Shift
 ### Overview
 A code translator that takes a Python file and converts it to C, C++, Rust, or Javascript.
 It's like Google Translate, but for code.
