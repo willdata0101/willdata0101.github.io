@@ -3,12 +3,6 @@ layout: default
 title: William Daugherty's Resume and LLM Project Portfolio
 ---
 
-# Welcome to My Portfolio
-
-Here you can find:
-- [My Resume](tailored-resume.md)
-- [A Portfolio of my LLM-powered projects]
-
 # William Daugherty
 linkedin.com/in/williamthetranslator | (817) 614-8981 | willthelion@outlook.com | github.com/willdata0101 | Dallas, TX
 
